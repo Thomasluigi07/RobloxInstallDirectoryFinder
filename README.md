@@ -1,0 +1,2 @@
+# RobloxInstallDirectoryFinder
+A project I made back in 2021 that tries (poorly) to help you find your Roblox install directory. I think this was made due to a texture pack I was making on Roblox and I thought that some users might need this if they can't find their install directory. Also this doesn't even work anymore lol
